@@ -19,8 +19,8 @@
 ##
 ### :email: My Contact    
 <div> 
-  <a href = "mailto:luarlemos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:luarlemos96@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luarlemos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luciana-araujo-lemos-537810157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Luarlemos/Luarlemos/blob/output/github-contribution-grid-snake.svg)
